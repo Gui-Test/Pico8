@@ -1,0 +1,1 @@
+To tentando fazer um joguinho no Pico 8, as versões mais recentes são as com nome Tankwars, as só Tanks são versões mais antigas e os outros são uns cartuchos que peguei pra dar uma estudada em como fazer a colisão
